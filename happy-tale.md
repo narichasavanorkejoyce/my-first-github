@@ -1,2 +1,1 @@
-Git is fun! I wish we had used this on CICAAT...
-Git helps us keep track of different versions! 
+words words words 
